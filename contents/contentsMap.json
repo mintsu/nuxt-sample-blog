@@ -1,0 +1,40 @@
+{
+  "contentsMap": {
+    "id1": {
+      "title": "テスト記事1",
+      "description": "テスト記事1",
+      "category": "category1",
+      "body": "テスト記事1"
+    },
+    "id2": {
+      "title": "テスト記事2",
+      "description": "テスト記事2",
+      "category": "category1",
+      "body": "テスト記事2"
+    },
+    "id3": {
+      "title": "テスト記事3",
+      "description": "テスト記事3",
+      "category": "category2",
+      "body": "テスト記事3"
+    },
+    "id4": {
+      "title": "テスト記事4",
+      "description": "テスト記事4",
+      "category": "category2",
+      "body": "テスト記事4"
+    },
+    "id5": {
+      "title": "テスト記事5",
+      "description": "テスト記事5",
+      "category": "category2",
+      "body": "テスト記事5"
+    },
+    "id6": {
+      "title": "テスト記事6",
+      "description": "テスト記事6",
+      "category": "category1",
+      "body": "テスト記事6"
+    }
+  }
+}
