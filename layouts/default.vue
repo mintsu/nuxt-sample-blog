@@ -56,7 +56,13 @@ export default {
           icon: 'bubble_chart',
           title: 'コンポーネントサンプル',
           to: '/componentSample'
+        },
+        {
+          icon: 'bubble_chart',
+          title: 'axiosサンプル',
+          to: '/axiosSamplePage'
         }
+
       ],
       miniVariant: false,
       title: 'SampleBlog'
